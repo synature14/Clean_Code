@@ -16,7 +16,7 @@
 
 [나쁜 코드 vs. 깨끗한 코드](https://github.com/synature14/Clean_Code/blob/main/객체와%20자료%20구조.md)
 
-[그래서 의미 있는 이름이 무엇일까?](https://www.notion.so/34bda82a207f41939256a94560bdd16f)
+[그래서 의미 있는 이름이 무엇일까?](https://github.com/synature14/Clean_Code/blob/main/%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%89%E1%85%A5%20%E1%84%8B%E1%85%B4%E1%84%86%E1%85%B5%20%E1%84%8B%E1%85%B5%E1%86%BB%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%8B%E1%85%B5%E1%84%85%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%B5%20%E1%84%86%E1%85%AE%E1%84%8B%E1%85%A5%E1%86%BA%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%81%E1%85%A1%3F.md)
 
 [좋은 함수란?](https://www.notion.so/ee76e35d7ea14319906e0498954aef0e)
 
