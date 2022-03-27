@@ -20,7 +20,7 @@
 
 [좋은 함수란?](https://github.com/synature14/Clean_Code/blob/main/%E1%84%8C%E1%85%A9%E1%87%82%E1%84%8B%E1%85%B3%E1%86%AB%20%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%E1%84%85%E1%85%A1%E1%86%AB%3F.md)
 
-[좋은 주석?](https://www.notion.so/34f905980dc14c7f9addbc4f0752e575)
+[좋은 주석?](https://github.com/synature14/Clean_Code/blob/main/%E1%84%8C%E1%85%A9%E1%87%82%E1%84%8B%E1%85%B3%E1%86%AB%20%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A5%E1%86%A8%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A1%E1%86%AB.md)
 
 [형식 맞추기](https://www.notion.so/c226e9aa31ea4ede879985e6a9c8a2ae)
 
