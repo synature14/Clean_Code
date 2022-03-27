@@ -28,15 +28,15 @@
 
 [오류처리를 어떻게 clean하게 할까?](https://github.com/synature14/Clean_Code/blob/main/%E1%84%8B%E1%85%A9%E1%84%85%E1%85%B2%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%8B%E1%85%A5%E1%84%84%E1%85%A5%E1%87%82%E1%84%80%E1%85%A6%20clean%E1%84%92%E1%85%A1%E1%84%80%E1%85%A6%20%E1%84%92%E1%85%A1%E1%86%AF%E1%84%81%E1%85%A1%3F.md)
 
-[외부 코드를 어떻게 사용해야하나?](https://www.notion.so/5a376737a59d476ca87d993543e213b7)
+[외부 코드를 어떻게 사용해야하나?](https://github.com/synature14/Clean_Code/blob/main/%E1%84%8B%E1%85%AC%E1%84%87%E1%85%AE%20%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B3%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%8B%E1%85%A5%E1%84%84%E1%85%A5%E1%87%82%E1%84%80%E1%85%A6%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A2%E1%84%8B%E1%85%A3%E1%84%92%E1%85%A1%E1%84%82%E1%85%A1%3F.md)
 
-[Clean Test Code](https://www.notion.so/Clean-Test-Code-d6e9e0d8d3e846419d1e4d49db95c1a6)
+[Clean Test Code](https://github.com/synature14/Clean_Code/blob/main/Clean%20Test%20Code.md)
 
-[Clean 클래스](https://www.notion.so/Clean-9e6743fad38040d1b4c599d959a6d5a3)
+[Clean 클래스](https://github.com/synature14/Clean_Code/blob/main/Clean%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B3.md)
 
-[Clean 시스템을 어떻게 구현하나?](https://www.notion.so/Clean-c07fe3e7608746499c3a3a461d49633d)
+[Clean 시스템을 어떻게 구현하나?](https://github.com/synature14/Clean_Code/blob/main/Clean%20%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%8B%E1%85%A5%E1%84%84%E1%85%A5%E1%87%82%E1%84%80%E1%85%A6%20%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB%E1%84%92%E1%85%A1%E1%84%82%E1%85%A1%3F.md)
 
-[Clean 설계란?](https://www.notion.so/Clean-90f47975ea7b4b968340ffd5a844bf69)
+[Clean 설계란?](https://github.com/synature14/Clean_Code/blob/main/Clean%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%80%E1%85%A8%E1%84%85%E1%85%A1%E1%86%AB%3F.md)
 
 [Clean 동시성 코드라는걸 어떻게 보장할까?](https://www.notion.so/Clean-59ffa27a73d74bfa90b52176e6c8a22c)
 
