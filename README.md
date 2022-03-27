@@ -24,9 +24,9 @@
 
 [형식 맞추기](https://github.com/synature14/Clean_Code/blob/main/%E1%84%92%E1%85%A7%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8%20%E1%84%86%E1%85%A1%E1%86%BD%E1%84%8E%E1%85%AE%E1%84%80%E1%85%B5.md)
 
-[객체와 자료 구조](https://www.notion.so/b6da7471dac647358365d0654b93fa5d)
+[객체와 자료 구조](https://github.com/synature14/Clean_Code/blob/main/%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%20%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9.md)
 
-[오류처리를 어떻게 clean하게 할까?](https://www.notion.so/clean-4a4cd1e9840549d2b33fb71529eff0e5)
+[오류처리를 어떻게 clean하게 할까?](https://github.com/synature14/Clean_Code/blob/main/%E1%84%8B%E1%85%A9%E1%84%85%E1%85%B2%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%8B%E1%85%A5%E1%84%84%E1%85%A5%E1%87%82%E1%84%80%E1%85%A6%20clean%E1%84%92%E1%85%A1%E1%84%80%E1%85%A6%20%E1%84%92%E1%85%A1%E1%86%AF%E1%84%81%E1%85%A1%3F.md)
 
 [외부 코드를 어떻게 사용해야하나?](https://www.notion.so/5a376737a59d476ca87d993543e213b7)
 
