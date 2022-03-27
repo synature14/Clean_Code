@@ -22,7 +22,7 @@
 
 [좋은 주석?](https://github.com/synature14/Clean_Code/blob/main/%E1%84%8C%E1%85%A9%E1%87%82%E1%84%8B%E1%85%B3%E1%86%AB%20%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A5%E1%86%A8%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A1%E1%86%AB.md)
 
-[형식 맞추기](https://www.notion.so/c226e9aa31ea4ede879985e6a9c8a2ae)
+[형식 맞추기](https://github.com/synature14/Clean_Code/blob/main/%E1%84%92%E1%85%A7%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8%20%E1%84%86%E1%85%A1%E1%86%BD%E1%84%8E%E1%85%AE%E1%84%80%E1%85%B5.md)
 
 [객체와 자료 구조](https://www.notion.so/b6da7471dac647358365d0654b93fa5d)
 
