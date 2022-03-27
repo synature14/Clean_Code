@@ -14,7 +14,7 @@
 
 ## 목차
 
-[나쁜 코드 vs. 깨끗한 코드](https://www.notion.so/vs-a5ab71a28b4245f18ace88fcc2341c07)
+[나쁜 코드 vs. 깨끗한 코드](https:/github.com/synature14/Clean_Code/blob/main/객체와%20자료%20구조.md)
 
 [그래서 의미 있는 이름이 무엇일까?](https://www.notion.so/34bda82a207f41939256a94560bdd16f)
 
