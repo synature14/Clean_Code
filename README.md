@@ -38,9 +38,9 @@
 
 [Clean 설계란?](https://github.com/synature14/Clean_Code/blob/main/Clean%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%80%E1%85%A8%E1%84%85%E1%85%A1%E1%86%AB%3F.md)
 
-[Clean 동시성 코드라는걸 어떻게 보장할까?](https://www.notion.so/Clean-59ffa27a73d74bfa90b52176e6c8a22c)
+[Clean 동시성 코드라는걸 어떻게 보장할까?](https://github.com/synature14/Clean_Code/blob/main/Clean%20%E1%84%83%E1%85%A9%E1%86%BC%E1%84%89%E1%85%B5%E1%84%89%E1%85%A5%E1%86%BC%20%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B3%E1%84%85%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%E1%84%80%E1%85%A5%E1%86%AF%20%E1%84%8B%E1%85%A5%E1%84%84%E1%85%A5%E1%87%82%E1%84%80%E1%85%A6%20%E1%84%87%E1%85%A9%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AF%E1%84%81%E1%85%A1%3F.md)
 
-[점진적인 개선](https://www.notion.so/9e3a92b2bb1a4dbb8fb3ba96085f273d)
+[점진적인 개선](https://github.com/synature14/Clean_Code/blob/main/%E1%84%8C%E1%85%A5%E1%86%B7%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%80%E1%85%A2%E1%84%89%E1%85%A5%E1%86%AB.md)
 
 
 ## 💬 Clean Code 정의를 마주한 소감
